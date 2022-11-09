@@ -4,7 +4,7 @@
 #include <vector>
 #include <string>
 
-// (char)7 is a tab character
+// (char)9 is a tab character
 #define SINGLE_INDENT (char)9
 #define DOUBLE_INDENT (char)9 << (char)9
 
