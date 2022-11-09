@@ -1,2 +1,2 @@
 # boilerplate-generator
-generates boilerplate code for easy project creation
+Command line tool that generates boilerplate code for east project generation.

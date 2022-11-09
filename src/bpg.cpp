@@ -66,6 +66,11 @@ namespace bpg
 					out << "}\n";
 				}
 			}
+
+			for (std::ofstream &out : outFiles)
+			{
+				out.close();
+			}
 		}
 	}
 }
